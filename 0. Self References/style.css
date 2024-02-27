@@ -1,0 +1,21 @@
+.container
+{
+    display: inline-flex;
+    background-color: red;
+}
+.p2
+{
+    margin:0px;
+    display:inline;
+}
+.container2
+{
+    display:inline;
+    margin:0px;
+    background-color: yellow;
+}
+.p1
+{
+    margin:0px;
+    /* display:inline; */
+}
